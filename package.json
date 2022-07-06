@@ -1,0 +1,8 @@
+{
+  "name": "ttt-js-sharons-pet-rescue",
+  "version": "1.0.0",
+  "description": "Webpage showcasing pets that are available to play.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
